@@ -8,15 +8,15 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football and game
 
-### Skillset
+### Skillset;
 - Data Analysis
 - Data Visualization
 - Computer Vision (OpenCV)
 
-### Current Project
+### Current Project;
 - Building a multimodal biometric system with eyelid vein pattern recognition and iris recognition
 
-### Spotify Playing 🎧
+### Spotify Playing 🎧;
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Shannon Spotify Playing" width="350" />](hhttps://open.spotify.com/user/5qsepqlz1g71ljddwpr1rdghs)
 
