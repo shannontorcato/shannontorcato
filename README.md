@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate with other researchers/ developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play football and game
+- ⚡ Fun fact: I love to play football and PC game
 
 ### Skillset;
 - Data Analysis
