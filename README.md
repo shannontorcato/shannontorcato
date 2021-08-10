@@ -16,10 +16,6 @@
 ### Current Project;
 - Building a multimodal biometric system with eyelid vein pattern recognition and iris recognition
 
-### Spotify Playing 🎧;
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Shannon Spotify Playing" width="350" />](hhttps://open.spotify.com/user/5qsepqlz1g71ljddwpr1rdghs)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
