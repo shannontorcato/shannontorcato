@@ -14,7 +14,7 @@
 - Computer Vision (OpenCV)
 
 ### Current Project;
-- Creating a Google Chrome Extension to save and drop images from the web. 
+- Creating a Google Chrome Extension to drop and save images from the web. 
 
 ### Connect with me:
 
