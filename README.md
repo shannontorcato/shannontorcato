@@ -14,7 +14,7 @@
 - Computer Vision (OpenCV)
 
 ### Current Project;
-- Building a multimodal biometric system with eyelid vein pattern recognition and iris recognition
+- Creating a Google Chrome Extension to save and drop images from the web. 
 
 ### Connect with me:
 
