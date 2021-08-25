@@ -40,7 +40,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/shannontorcato/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannontorcato&bg_color=153E62&text_color=BD54DE" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannontorcato&bg_color=153E62&text_color=BD54DE&exclude_repo=end_to_end_ML_projects,IvyHacks_Detect_Parkinsons" />
 </a>
 <a href="https://github.com/shannontorcato/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=shannontorcato&show_icons=true&line_height=27&count_private=false&title_color=D47317&text_color=BD54DE&icon_color=2bbc8a&bg_color=153E62" alt="Shannon's GitHub Stats" />
