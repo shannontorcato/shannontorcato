@@ -3,15 +3,17 @@
 
 ## I'm a Learner, Researcher, Developer, and Gamer!!
 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate with other researchers/ developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football and PC games
 
 ### Skillset;
 - Data Analysis
 - Data Visualization
 - Computer Vision (OpenCV)
+- Web Developer
+- Git
 
 ### Current Project;
 - Creating a Google Chrome Extension save images from the web. 
