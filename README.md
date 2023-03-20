@@ -3,7 +3,7 @@
 
 ## I'm a Learner, Researcher, Developer, and Gamer!!
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Data Analysis using SQL, Python and Tableau.
 - 👯 I’m looking to collaborate with other researchers/ developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football and PC games
