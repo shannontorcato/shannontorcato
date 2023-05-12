@@ -3,9 +3,9 @@
 
 ### Checkout my Tableau Profile Here [https://public.tableau.com/app/profile/shannon.torcato]
 
-### ![Marketing Campaign Performance Project](https://github.com/shannontorcato/analyzing-marketing-campaign)
+### [Marketing Campaign Performance Project](https://github.com/shannontorcato/analyzing-marketing-campaign)
 
-### [City Of Toronto Affordable Housing Analysis] (https://github.com/shannontorcato?tab=repositories)
+### [City Of Toronto Affordable Housing Analysis](https://github.com/shannontorcato?tab=repositories)
 
 ## I'm a Learner, Researcher, Developer, and Gamer!!
 
