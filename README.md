@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/shannontorcato/shannontorcato/master/readme_header.png "Header")
 ### Hi there, I'm Shannon  <img src="https://raw.githubusercontent.com/shannontorcato/shannontorcato/master/wave.gif" width="30px">
 
-### Checkout my Tableau Profile Here [https://public.tableau.com/app/profile/shannon.torcato]
+### [Checkout my Tableau Profile Here](https://public.tableau.com/app/profile/shannon.torcato)
 
 ### [Marketing Campaign Performance Project](https://github.com/shannontorcato/analyzing-marketing-campaign)
 
