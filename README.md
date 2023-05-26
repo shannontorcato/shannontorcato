@@ -5,7 +5,7 @@
 
 ### [Marketing Campaign Performance Project](https://github.com/shannontorcato/analyzing-marketing-campaign)
 
-### [City Of Toronto Affordable Housing Analysis](https://github.com/shannontorcato?tab=repositories)
+### [City Of Toronto Affordable Housing Analysis](https://github.com/shannontorcato/City-of-Toronto)
 
 ## I'm a Learner, Researcher, Developer, and Gamer!!
 
